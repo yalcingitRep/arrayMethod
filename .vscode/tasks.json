@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build arrayMethod",
+            "task":"build C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\arrayMethod\\arrayMethod.csproj",
+            "file": "C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\arrayMethod\\arrayMethod.csproj",
+            "type": "dotnet",
+            "problemMatcher": [
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
